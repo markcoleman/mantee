@@ -1,0 +1,21 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styling */
+  body {
+    background: #003B73; /* Ocean blue */
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Canvas styling */
+  canvas {
+    display: block;
+    margin: 20px auto 0;
+    background: linear-gradient(#003B73, #001F3F);
+    border: 2px solid #fff;
+  }
